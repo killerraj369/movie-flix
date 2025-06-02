@@ -1,2 +1,3 @@
 # movie-flix
-Movie Recommender 
+Movie Recommender to suggest top movies
+How to Run - streamlit run app.py
