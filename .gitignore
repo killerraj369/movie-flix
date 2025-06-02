@@ -1,0 +1,5 @@
+.venv
+.idea
+.env
+compress_similarity_scores.py
+similarity_scores_tfidf.pkl
